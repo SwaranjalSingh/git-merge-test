@@ -1,2 +1,3 @@
 adding content to merge.txt later to create conflicts
 
+making changes to second line 
