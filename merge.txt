@@ -1,1 +1,2 @@
-totally new content to same line
+adding content to merge.txt later to create conflicts
+
