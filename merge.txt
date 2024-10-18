@@ -4,3 +4,4 @@ making changes to second line
 get fetch testing
 adding random text on merge branch merge file
 
+doing hands on git stash command
