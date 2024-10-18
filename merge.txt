@@ -9,3 +9,5 @@ doing hands on git stash command
 added content on remote repo to try  git fetch command
 
 adding content for git revert command
+
+adding content for trying git reset command 
