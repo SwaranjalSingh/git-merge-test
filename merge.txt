@@ -1,6 +1,6 @@
 adding content to merge.txt later to create conflicts
 
 making changes to second line 
-adding somme content to check git fetch cmd
+get fetch testing
+adding random text on merge branch merge file
 
-merge conflict on main branch file second time trying
