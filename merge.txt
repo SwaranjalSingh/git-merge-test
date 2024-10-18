@@ -5,3 +5,5 @@ get fetch testing
 adding random text on merge branch merge file
 
 doing hands on git stash command
+
+added content on remote repo to try  git fetch command
