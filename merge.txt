@@ -1,13 +1,2 @@
 adding content to merge.txt later to create conflicts
 
-making changes to second line 
-get fetch testing
-adding random text on merge branch merge file
-
-doing hands on git stash command
-
-added content on remote repo to try  git fetch command
-
-adding content for git revert command
-
-adding content for trying git reset command 
