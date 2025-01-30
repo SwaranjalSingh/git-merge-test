@@ -1,6 +1,1 @@
-adding content to merge.txt later to create conflicts
- 
-get fetch testing
-adding random text on merge branch merge file
-
-doing hands on git stash command
+adding new line for MC
